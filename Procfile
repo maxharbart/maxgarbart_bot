@@ -1,0 +1,1 @@
+web: gunicorn maxhtemp_bot:app
